@@ -1,7 +1,6 @@
-<h1>Hi 👋 I am Bunyod Botirov</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and also Django
-- 💞️ I’m looking to collaborate on ...
+##Hi 👋 I am Bunyod Botirov
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Dart and also Flutter
 - 📫 How to reach me b24bunyod@gmail.com
 
 <!---
