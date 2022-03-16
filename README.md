@@ -3,7 +3,7 @@
 <h3 align="center">I am Flutter Developer</h3>
 
 <p align="center">
-    <a href="https://github.com/bunyod-botirov/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bunyod's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bunyod-botirov&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"> </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bunyod's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bunyod-botirov&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
 </p>
 
 <br>
@@ -27,8 +27,8 @@
 <h2 align="center">My Github Stats</h2>
 <br>
 <p align="center">
-<a href="https://github.com/bunyod-botirov/github-readme-stats"> <img alt="Bunyod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bunyod-botirov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
-<a href="https://github.com/bunyod-botirov/github-readme-stats"> <img alt="Bunyod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunyod-botirov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a>
+    <img alt="Bunyod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bunyod-botirov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Bunyod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunyod-botirov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 <br>
 
@@ -36,7 +36,7 @@
 
 <br>
 <br>
-<a href="https://github.com/bunyod-botirov/github-readme-activity-graph"><img alt="Bunyod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bunyod-botirov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Bunyod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bunyod-botirov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 <br>
 <br>
 
