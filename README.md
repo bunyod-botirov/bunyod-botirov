@@ -26,10 +26,8 @@
  
 <h2 align="center">My Github Stats</h2>
 <br>
-<p align="center">
-    <img alt="Bunyod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bunyod-botirov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Bunyod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bunyod-botirov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     <img alt="Bunyod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunyod-botirov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
 <br>
 
 <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
