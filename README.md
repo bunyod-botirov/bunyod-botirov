@@ -46,6 +46,7 @@
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red"> </a>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&labelColor=white"> </a>
   <a href="b24bunyod@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black"> </a>
+  <a href="t.me/b24bunyod" target="_blank"> <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&labelColor=white"> </a>
 </p>
 
 <br>
