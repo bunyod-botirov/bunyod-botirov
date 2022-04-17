@@ -44,8 +44,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/bunyod-botirov" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"> </a>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red"> </a>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&labelColor=white"> </a>
-  <a href="b24bunyod@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black"> </a>
+  <a href="https://instagram.com/bunyodbotirov24" target="_blank"> <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&labelColor=white"> </a>
+  <a href="mailto:b24bunyod@email.com" target="_blank"> <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black"> </a>
   <a href="https://t.me/b24bunyod" target="_blank"> <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&labelColor=white"> </a>
 </p>
 
